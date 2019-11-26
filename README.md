@@ -6,3 +6,4 @@ NGCF 的关键就在于 Embedding Propagation Layer 来学习 User 和 Item 的 
 另外，本文的 Embedding Propagation 实际上没有考虑邻居的重要性，
 如果可以像 Graph Attention Network 在传播聚合过程中考虑邻居重要性的差异，NGCF 的效果应该可以进一步提升。
 **
+## 源介绍在reademe_Old
